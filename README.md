@@ -11,5 +11,20 @@ This is a simple tool to transliterate Dhivehi text into an English-style text, 
 ## Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/1maan/dhivehi-transliterator.git
+
+## Use Online / Demo
+
+[Online Dhivehi Transliterator](https://naru.mv/1maan/dhivehi-transliterator)
+
+## Input/Output
+
+### Input
+`20 ވަނަ ރައްޔިތުންގެ މަޖިލީހުގެ 2025 ވަނަ އަހަރުގެ 2 ވަނަ ޖަލްސާ`
+
+### Output
+
+`Wsclwj wnwv 2 egurwhwa wnwv 2025 eguhIlijwm egcnutiycawr wnwv 20`
+
